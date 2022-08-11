@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/portfolioUday/static/css/main.f5038bf7.css",
-    "main.js": "/portfolioUday/static/js/main.4445934c.js",
+    "main.js": "/portfolioUday/static/js/main.2087f6a8.js",
     "static/js/787.1ed0c42c.chunk.js": "/portfolioUday/static/js/787.1ed0c42c.chunk.js",
     "static/media/color-sharp.png": "/portfolioUday/static/media/color-sharp.bea361cfef80fefc2d1e.png",
     "static/media/color-sharp2.png": "/portfolioUday/static/media/color-sharp2.c87586c6c2f549cb4aa6.png",
@@ -30,11 +30,11 @@
     "static/media/arrow1.svg": "/portfolioUday/static/media/arrow1.0c89b5b635adf255c2822c630aaa6ccf.svg",
     "static/media/nav-icon2.svg": "/portfolioUday/static/media/nav-icon2.178f497aa17b70c42df2a1a8c926ed01.svg",
     "main.f5038bf7.css.map": "/portfolioUday/static/css/main.f5038bf7.css.map",
-    "main.4445934c.js.map": "/portfolioUday/static/js/main.4445934c.js.map",
+    "main.2087f6a8.js.map": "/portfolioUday/static/js/main.2087f6a8.js.map",
     "787.1ed0c42c.chunk.js.map": "/portfolioUday/static/js/787.1ed0c42c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.f5038bf7.css",
-    "static/js/main.4445934c.js"
+    "static/js/main.2087f6a8.js"
   ]
 }
