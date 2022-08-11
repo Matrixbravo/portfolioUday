@@ -53,7 +53,7 @@ export const Banner = () => {
                                 <div className={isVisible ? "animate__animated animate__fadeIn" : ""}>
                                     <span className="tagline">Welcome to my Portfolio</span>
                                     <h1>{`Hi I'm Uday Singh `}<span className="wrap">{text}</span></h1>
-                                    <p>Lorem Ipsum is simply dummy text of printingand tyepsetting industry. Lorem Ipsum</p>
+                                    <p>Full Stack / Devops / Cloud computing</p>
                                     <button onClick={() => console.log('connect')}>Let's connect <ArrowRightCircle size={25} /></button>
                                 </div>}
                         </TrackVisibility>
